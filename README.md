@@ -1,4 +1,6 @@
-InApp Billing for Android [![npm version](https://img.shields.io/npm/v/react-native-billing.svg)](https://www.npmjs.com/package/react-native-billing)
+In App Purchase for Android
+IAP fro Android
+In App Billing for Android [![npm version](https://img.shields.io/npm/v/react-native-billing.svg)](https://www.npmjs.com/package/react-native-billing)
 =============
 **React Native Billing** is built to provide an easy interface to InApp Billing on **Android**, accomplished by wrapping [anjlab's InApp Billing library](https://github.com/anjlab/android-inapp-billing-v3).
 
